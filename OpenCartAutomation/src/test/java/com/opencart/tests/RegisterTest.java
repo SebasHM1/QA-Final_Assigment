@@ -46,6 +46,9 @@ public class RegisterTest extends BaseTest {
 
             LogUtils.writeLog("REGISTRO EXITOSO: Usuario " + uniqueEmail);
 
+            ExcelUtils.setCellData(EXCEL_PATH, "LoginData", 1, 0, uniqueEmail);
+            System.out.println("Excel actualizado con el nuevo email: " + uniqueEmail);
+
             homePage.logout();
 
         } catch (Exception e) {
