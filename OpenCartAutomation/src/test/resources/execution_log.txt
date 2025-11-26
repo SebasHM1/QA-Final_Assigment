@@ -1,0 +1,2 @@
+[2025-11-26T15:31:30.341315700] LOGIN FALLIDO (Esperaba éxito): juan.perez99@test.com
+[2025-11-26T15:31:35.514577500] LOGIN BLOQUEADO CORRECTAMENTE (Credenciales inválidas): juan.fake@test.com
