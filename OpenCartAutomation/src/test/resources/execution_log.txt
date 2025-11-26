@@ -97,3 +97,25 @@
 [2025-11-26T18:20:24.282354] VERIFICADO: En Carrito -> [Cat: Phones | Sub: ] Producto: iPhone (Cant: 2)
 [2025-11-26T18:20:24.370390200] ERROR: FALTA EN CARRITO: Samsung Galaxy Tab 10.1 con cantidad 1
 [2025-11-26T18:20:24.456936400] ERROR: FALTA EN CARRITO: Canon EOS 5D con cantidad 1
+[2025-11-26T18:24:40.640994400] REGISTRO EXITOSO: Usuario juan.perez99_91364@test.com
+[2025-11-26T18:24:52.835236700] LOGIN EXITOSO: juan.perez99_91364@test.com
+[2025-11-26T18:24:58.336466900] LOGIN BLOQUEADO CORRECTAMENTE (Credenciales inválidas): juan.fake@test.com
+[2025-11-26T18:25:15.833544400] --------------------------------------------------
+[2025-11-26T18:25:15.836261400] INICIANDO TEST PRODUCTO: iPhone
+[2025-11-26T18:25:16.652134900] Producto encontrado en lista de búsqueda.
+[2025-11-26T18:25:23.757644] ÉXITO: Agregado al carrito -> iPhone (Cant: 2)
+[2025-11-26T18:25:28.900079800] --------------------------------------------------
+[2025-11-26T18:25:28.902075500] INICIANDO TEST PRODUCTO: Samsung Galaxy Tab 10.1
+[2025-11-26T18:25:29.751668] Producto encontrado en lista de búsqueda.
+[2025-11-26T18:25:36.956403800] ÉXITO: Agregado al carrito -> Samsung Galaxy Tab 10.1 (Cant: 1)
+[2025-11-26T18:25:42.626996] --------------------------------------------------
+[2025-11-26T18:25:42.628995500] INICIANDO TEST PRODUCTO: Canon EOS 5D
+[2025-11-26T18:25:43.736714] Producto encontrado en lista de búsqueda.
+[2025-11-26T18:25:45.685217900] ÉXITO: Agregado al carrito -> Canon EOS 5D (Cant: 1)
+[2025-11-26T18:27:33.400539100] ==================================================
+[2025-11-26T18:27:33.400539100] INICIANDO VERIFICACIÓN DE CARRITO FINAL
+[2025-11-26T18:27:37.702746100] VERIFICADO: En Carrito -> [Cat: Phones | Sub: ] Producto: iPhone (Cant: 2)
+[2025-11-26T18:27:37.947630400] VERIFICADO: En Carrito -> [Cat: Tablets | Sub: ] Producto: Samsung Galaxy Tab 10.1 (Cant: 1)
+[2025-11-26T18:27:38.075354600] VERIFICADO: En Carrito -> [Cat: Cameras | Sub: ] Producto: Canon EOS 5D (Cant: 1)
+[2025-11-26T18:27:38.075354600] FIN DE VERIFICACIÓN DE CARRITO
+[2025-11-26T18:27:38.075354600] ==================================================
