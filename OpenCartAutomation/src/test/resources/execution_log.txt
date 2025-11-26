@@ -8,3 +8,31 @@
 [2025-11-26T16:05:39.772945700] REGISTRO EXITOSO: Usuario juan.perez99_840@test.com
 [2025-11-26T16:05:58.563516] LOGIN EXITOSO: juan.perez99_840@test.com
 [2025-11-26T16:06:04.543337100] LOGIN BLOQUEADO CORRECTAMENTE (Credenciales inválidas): juan.fake@test.com
+[2025-11-26T16:15:58.280053500] --------------------------------------------------
+[2025-11-26T16:15:58.285082500] INICIANDO TEST PRODUCTO: iPhone
+[2025-11-26T16:15:59.236372700] Producto encontrado en lista de búsqueda.
+[2025-11-26T16:16:01.178115900] ÉXITO: Agregado al carrito -> iPhone (Cant: 2)
+[2025-11-26T16:16:04.757621500] --------------------------------------------------
+[2025-11-26T16:16:04.763310] INICIANDO TEST PRODUCTO: Samsung Galaxy Tab 10.1
+[2025-11-26T16:16:05.714420200] Producto encontrado en lista de búsqueda.
+[2025-11-26T16:16:07.690999700] ÉXITO: Agregado al carrito -> Samsung Galaxy Tab 10.1 (Cant: 1)
+[2025-11-26T16:16:11.051876900] --------------------------------------------------
+[2025-11-26T16:16:11.053990900] INICIANDO TEST PRODUCTO: Canon EOS 5D
+[2025-11-26T16:16:11.977056900] Producto encontrado en lista de búsqueda.
+[2025-11-26T16:16:18.596886100] FALLO: No se mostró mensaje de éxito al agregar Canon EOS 5D
+[2025-11-26T16:16:22.052925300] --------------------------------------------------
+[2025-11-26T16:16:22.052925300] INICIANDO TEST PRODUCTO: 
+[2025-11-26T16:18:29.976614800] --------------------------------------------------
+[2025-11-26T16:18:29.980082700] INICIANDO TEST PRODUCTO: iPhone
+[2025-11-26T16:18:30.808506700] Producto encontrado en lista de búsqueda.
+[2025-11-26T16:18:32.913195500] ÉXITO: Agregado al carrito -> iPhone (Cant: 2)
+[2025-11-26T16:18:36.383590400] --------------------------------------------------
+[2025-11-26T16:18:36.383590400] INICIANDO TEST PRODUCTO: Samsung Galaxy Tab 10.1
+[2025-11-26T16:18:37.266291700] Producto encontrado en lista de búsqueda.
+[2025-11-26T16:18:39.198311400] ÉXITO: Agregado al carrito -> Samsung Galaxy Tab 10.1 (Cant: 1)
+[2025-11-26T16:18:42.666742800] --------------------------------------------------
+[2025-11-26T16:18:42.667712500] INICIANDO TEST PRODUCTO: Canon EOS 5D
+[2025-11-26T16:18:43.487647700] Producto encontrado en lista de búsqueda.
+[2025-11-26T16:18:50.050140300] FALLO: No se mostró mensaje de éxito al agregar Canon EOS 5D
+[2025-11-26T16:18:53.563359800] --------------------------------------------------
+[2025-11-26T16:18:53.565365800] INICIANDO TEST PRODUCTO: 

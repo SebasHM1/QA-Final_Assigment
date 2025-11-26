@@ -9,6 +9,8 @@ public class HomePage extends BasePage {
     private By registerLink = By.linkText("Register");
     private By loginLink = By.linkText("Login");
     private By logoutLink = By.linkText("Logout");
+    private By searchInput = By.name("search");
+    private By searchBtn = By.cssSelector("#search button");
 
     public HomePage(WebDriver driver) {
         super(driver);
@@ -29,5 +31,10 @@ public class HomePage extends BasePage {
         if(isDisplayed(logoutLink)){
             click(logoutLink);
         }
+    }
+
+    public void searchProduct(String productName) {
+        type(searchInput, productName);
+        click(searchBtn);
     }
 }
