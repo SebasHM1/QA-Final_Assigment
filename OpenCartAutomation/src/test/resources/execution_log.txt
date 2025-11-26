@@ -36,3 +36,15 @@
 [2025-11-26T16:18:50.050140300] FALLO: No se mostró mensaje de éxito al agregar Canon EOS 5D
 [2025-11-26T16:18:53.563359800] --------------------------------------------------
 [2025-11-26T16:18:53.565365800] INICIANDO TEST PRODUCTO: 
+[2025-11-26T16:29:53.967466100] --------------------------------------------------
+[2025-11-26T16:29:53.971013100] INICIANDO TEST PRODUCTO: iPhone
+[2025-11-26T16:29:54.980584] Producto encontrado en lista de búsqueda.
+[2025-11-26T16:30:02.291572300] ÉXITO: Agregado al carrito -> iPhone (Cant: 2)
+[2025-11-26T16:30:05.693506200] --------------------------------------------------
+[2025-11-26T16:30:05.696007900] INICIANDO TEST PRODUCTO: Samsung Galaxy Tab 10.1
+[2025-11-26T16:30:06.688791800] Producto encontrado en lista de búsqueda.
+[2025-11-26T16:30:13.859578800] ÉXITO: Agregado al carrito -> Samsung Galaxy Tab 10.1 (Cant: 1)
+[2025-11-26T16:30:17.242488700] --------------------------------------------------
+[2025-11-26T16:30:17.242488700] INICIANDO TEST PRODUCTO: Canon EOS 5D
+[2025-11-26T16:30:18.157135100] Producto encontrado en lista de búsqueda.
+[2025-11-26T16:30:20.117178100] ÉXITO: Agregado al carrito -> Canon EOS 5D (Cant: 1)
