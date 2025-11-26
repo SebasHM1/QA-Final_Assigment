@@ -18,7 +18,7 @@ public class RegisterPage extends BasePage {
     private By continueBtn = By.cssSelector("input[value='Continue']");
 
     // Mensaje de éxito
-    private By successMessage = By.cssSelector("#content h1"); // "Your Account Has Been Created!"
+    private By successMessage = By.xpath("//div[@id='content']//p[contains(text(), 'Congratulations')]");
 
     public RegisterPage(WebDriver driver) {
         super(driver);

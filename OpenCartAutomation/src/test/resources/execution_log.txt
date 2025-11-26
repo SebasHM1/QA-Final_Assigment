@@ -1,2 +1,5 @@
 [2025-11-26T15:31:30.341315700] LOGIN FALLIDO (Esperaba éxito): juan.perez99@test.com
 [2025-11-26T15:31:35.514577500] LOGIN BLOQUEADO CORRECTAMENTE (Credenciales inválidas): juan.fake@test.com
+[2025-11-26T15:39:50.360578700] REGISTRO FALLIDO: Usuario juan.perez99_29253@test.com - Probable error: El elemento de éxito no apareció.
+[2025-11-26T15:40:59.598231300] REGISTRO FALLIDO: Usuario juan.perez99_50588@test.com - Probable error: El elemento de éxito no apareció.
+[2025-11-26T15:44:42.206567700] REGISTRO EXITOSO: Usuario juan.perez99_42838@test.com
