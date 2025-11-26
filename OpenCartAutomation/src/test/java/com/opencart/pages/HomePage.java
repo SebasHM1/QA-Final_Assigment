@@ -11,6 +11,7 @@ public class HomePage extends BasePage {
     private By logoutLink = By.linkText("Logout");
     private By searchInput = By.name("search");
     private By searchBtn = By.cssSelector("#search button");
+    private By shoppingCartLink = By.xpath("//span[text()='Shopping Cart']");
 
     public HomePage(WebDriver driver) {
         super(driver);
@@ -36,5 +37,9 @@ public class HomePage extends BasePage {
     public void searchProduct(String productName) {
         type(searchInput, productName);
         click(searchBtn);
+    }
+
+    public void goToCart() {
+        click(shoppingCartLink);
     }
 }

@@ -1,5 +1,6 @@
 package com.opencart.tests;
 
+import com.opencart.pages.LoginPage;
 import com.opencart.pages.ProductPage;
 import com.opencart.pages.SearchPage;
 import com.opencart.utils.ExcelUtils;
@@ -23,6 +24,16 @@ public class SearchTest extends BaseTest {
         if (productName == null || productName.trim().isEmpty()) {
             return;
         }
+
+        Object[][] loginData = ExcelUtils.getData(EXCEL_PATH, "LoginData");
+        String email = (String) loginData[0][0];
+        String password = (String) loginData[0][1];
+
+        LoginPage loginPage = new LoginPage(driver);
+        homePage.goToLogin();
+        loginPage.login(email, password);
+        // Volvemos al home para empezar la búsqueda
+        driver.get("https://opencart.abstracta.us/index.php?route=common/home");
 
         if(quantity.contains(".")) {
             quantity = quantity.split("\\.")[0];
