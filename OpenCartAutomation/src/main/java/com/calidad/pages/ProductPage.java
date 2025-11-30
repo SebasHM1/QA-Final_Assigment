@@ -44,7 +44,11 @@ public class ProductPage extends BasePage {
     }
 
     public boolean isSuccessMessageDisplayed() {
+
+        wait.until(driver -> isDisplayed(successAlert));
+
         return isDisplayed(successAlert);
+
     }
 
     public String getSuccessMessageText() {

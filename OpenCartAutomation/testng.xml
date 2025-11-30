@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="OpenCart Automation Suite" verbose="1">
+
+    <!-- preserve-order="true" asegura que se ejecuten en el orden listado abajo -->
+    <test name="Flujo Completo de Compras" preserve-order="true">
+        <classes>
+            <!-- 1. Primero registramos el usuario y guardamos el email en Excel -->
+            <class name="com.opencart.tests.RegisterTest"/>
+
+            <!-- 2. Probamos el Login puro (opcional, pero buena práctica) -->
+            <class name="com.opencart.tests.LoginTest"/>
+
+            <!-- 3. Buscamos y agregamos al carrito (Usando el login interno) -->
+            <class name="com.opencart.tests.SearchTest"/>
+
+            <!-- 4. Verificamos que los productos sigan ahí -->
+            <class name="com.opencart.tests.CartVerificationTest"/>
+        </classes>
+    </test>
+</suite>
