@@ -238,3 +238,25 @@
 [2025-11-30T18:21:03.426963500] VERIFICADO: En Carrito -> [Cat: Phones | Sub: ] Producto: iPhone (Cant: 2)
 [2025-11-30T18:21:04.328994400] ERROR: FALTA EN CARRITO: Samsung Galaxy Tab 10.1 con cantidad 1
 [2025-11-30T18:21:04.566676500] VERIFICADO: En Carrito -> [Cat: Cameras | Sub: ] Producto: Canon EOS 5D (Cant: 1)
+[2025-11-30T18:23:15.696454100] LOGIN EXITOSO: juan.perez99_25911@test.com
+[2025-11-30T18:23:29.573238500] LOGIN BLOQUEADO CORRECTAMENTE (Credenciales invÃ¡lidas): juan.fake@test.com
+[2025-11-30T18:24:32.581125500] REGISTRO EXITOSO: Usuario juan.perez99_31993@test.com
+[2025-11-30T18:24:43.739677700] LOGIN EXITOSO: juan.perez99_31993@test.com
+[2025-11-30T18:24:55.069540] LOGIN BLOQUEADO CORRECTAMENTE (Credenciales inválidas): juan.fake@test.com
+[2025-11-30T18:25:07.959204100] --------------------------------------------------
+[2025-11-30T18:25:07.964739300] INICIANDO TEST PRODUCTO: iPhone
+[2025-11-30T18:25:09.113315500] Producto encontrado en lista de búsqueda.
+[2025-11-30T18:25:13.406270500] ÉXITO: Agregado al carrito -> iPhone (Cant: 2)
+[2025-11-30T18:25:26.811122600] --------------------------------------------------
+[2025-11-30T18:25:26.812123100] INICIANDO TEST PRODUCTO: Samsung Galaxy Tab 10.1
+[2025-11-30T18:25:27.835990700] Producto encontrado en lista de búsqueda.
+[2025-11-30T18:25:31.541146900] ÉXITO: Agregado al carrito -> Samsung Galaxy Tab 10.1 (Cant: 1)
+[2025-11-30T18:25:43.887988400] --------------------------------------------------
+[2025-11-30T18:25:43.890993900] INICIANDO TEST PRODUCTO: Canon EOS 5D
+[2025-11-30T18:25:44.862287] Producto encontrado en lista de búsqueda.
+[2025-11-30T18:25:47.350172100] ÉXITO: Agregado al carrito -> Canon EOS 5D (Cant: 1)
+[2025-11-30T18:25:56.043677600] ==================================================
+[2025-11-30T18:25:56.047971100] INICIANDO VERIFICACIÓN DE CARRITO FINAL
+[2025-11-30T18:26:04.730531200] VERIFICADO: En Carrito -> [Cat: Phones | Sub: ] Producto: iPhone (Cant: 2)
+[2025-11-30T18:26:04.940109600] ERROR: FALTA EN CARRITO: Samsung Galaxy Tab 10.1 con cantidad 1
+[2025-11-30T18:26:05.168948900] VERIFICADO: En Carrito -> [Cat: Cameras | Sub: ] Producto: Canon EOS 5D (Cant: 1)
