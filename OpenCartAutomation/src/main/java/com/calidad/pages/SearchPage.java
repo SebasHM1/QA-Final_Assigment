@@ -1,4 +1,4 @@
-package com.opencart.pages;
+package com.calidad.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

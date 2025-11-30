@@ -1,10 +1,10 @@
 package com.opencart.tests;
 
-import com.opencart.pages.LoginPage;
-import com.opencart.pages.ProductPage;
-import com.opencart.pages.SearchPage;
-import com.opencart.utils.ExcelUtils;
-import com.opencart.utils.LogUtils;
+import com.calidad.pages.LoginPage;
+import com.calidad.pages.ProductPage;
+import com.calidad.pages.SearchPage;
+import com.calidad.utils.ExcelUtils;
+import com.calidad.utils.LogUtils;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;

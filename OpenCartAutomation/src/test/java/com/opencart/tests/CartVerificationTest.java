@@ -1,10 +1,9 @@
 package com.opencart.tests;
 
-import com.opencart.pages.CartPage;
-import com.opencart.pages.LoginPage;
-import com.opencart.utils.ExcelUtils;
-import com.opencart.utils.LogUtils;
-import org.testng.Assert;
+import com.calidad.pages.CartPage;
+import com.calidad.pages.LoginPage;
+import com.calidad.utils.ExcelUtils;
+import com.calidad.utils.LogUtils;
 import org.testng.annotations.Test;
 
 public class CartVerificationTest extends BaseTest {

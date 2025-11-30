@@ -1,8 +1,8 @@
 package com.opencart.tests;
 
-import com.opencart.pages.RegisterPage;
-import com.opencart.utils.ExcelUtils;
-import com.opencart.utils.LogUtils;
+import com.calidad.pages.RegisterPage;
+import com.calidad.utils.ExcelUtils;
+import com.calidad.utils.LogUtils;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;

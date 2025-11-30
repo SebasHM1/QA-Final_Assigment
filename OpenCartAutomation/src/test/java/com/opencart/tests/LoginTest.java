@@ -1,8 +1,8 @@
 package com.opencart.tests;
 
-import com.opencart.pages.LoginPage;
-import com.opencart.utils.ExcelUtils;
-import com.opencart.utils.LogUtils;
+import com.calidad.pages.LoginPage;
+import com.calidad.utils.ExcelUtils;
+import com.calidad.utils.LogUtils;
 import org.testng.asserts.SoftAssert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
