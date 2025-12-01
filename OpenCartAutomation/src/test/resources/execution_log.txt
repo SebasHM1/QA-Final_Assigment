@@ -473,3 +473,67 @@
 [2025-11-30T19:39:35.851158200] VERIFICADO: En Carrito -> [Cat: Phones | Sub: ] Producto: iPhone (Cant: 2)
 [2025-11-30T19:39:35.994347200] ERROR: FALTA EN CARRITO: Samsung Galaxy Tab 10.1 con cantidad 1
 [2025-11-30T19:39:36.028758200] VERIFICADO: En Carrito -> [Cat: Cameras | Sub: ] Producto: Canon EOS 5D (Cant: 1)
+[2025-11-30T19:44:22.397072522] REGISTRO EXITOSO: Usuario juan.perez99_68224@test.com
+[2025-11-30T19:44:33.625260514] LOGIN EXITOSO: juan.perez99_68224@test.com
+[2025-11-30T19:44:44.185640689] LOGIN BLOQUEADO CORRECTAMENTE (Credenciales inválidas): juan.fake@test.com
+[2025-11-30T19:44:53.667163583] --------------------------------------------------
+[2025-11-30T19:44:53.678284616] INICIANDO TEST PRODUCTO: iPhone
+[2025-11-30T19:44:54.898944044] Producto encontrado en lista de búsqueda.
+[2025-11-30T19:44:57.551956136] ÉXITO: Agregado al carrito -> iPhone (Cant: 2)
+[2025-11-30T19:45:07.718646651] --------------------------------------------------
+[2025-11-30T19:45:07.719090822] INICIANDO TEST PRODUCTO: Samsung Galaxy Tab 10.1
+[2025-11-30T19:45:08.865897312] Producto encontrado en lista de búsqueda.
+[2025-11-30T19:45:11.666831104] ÉXITO: Agregado al carrito -> Samsung Galaxy Tab 10.1 (Cant: 1)
+[2025-11-30T19:45:22.928130179] --------------------------------------------------
+[2025-11-30T19:45:22.928610908] INICIANDO TEST PRODUCTO: Canon EOS 5D
+[2025-11-30T19:45:25.616315260] Producto encontrado en lista de búsqueda.
+[2025-11-30T19:45:28.632525036] ÉXITO: Agregado al carrito -> Canon EOS 5D (Cant: 1)
+[2025-11-30T19:45:30.701627317] ==================================================
+[2025-11-30T19:45:30.712256198] INICIANDO VERIFICACIÓN DE CARRITO FINAL
+[2025-11-30T19:45:39.431655945] VERIFICADO: En Carrito -> [Cat: Phones | Sub: ] Producto: iPhone (Cant: 2)
+[2025-11-30T19:45:39.548046490] ERROR: FALTA EN CARRITO: Samsung Galaxy Tab 10.1 con cantidad 1
+[2025-11-30T19:45:39.608897341] VERIFICADO: En Carrito -> [Cat: Cameras | Sub: ] Producto: Canon EOS 5D (Cant: 1)
+[2025-11-30T19:46:29.966217065] REGISTRO EXITOSO: Usuario juan.perez99_72264@test.com
+[2025-11-30T19:46:41.636195364] LOGIN EXITOSO: juan.perez99_72264@test.com
+[2025-11-30T19:46:51.316458769] LOGIN BLOQUEADO CORRECTAMENTE (Credenciales inválidas): juan.fake@test.com
+[2025-11-30T19:47:01.103710096] --------------------------------------------------
+[2025-11-30T19:47:01.104127547] INICIANDO TEST PRODUCTO: iPhone
+[2025-11-30T19:47:02.277744379] Producto encontrado en lista de búsqueda.
+[2025-11-30T19:47:05.260614768] ÉXITO: Agregado al carrito -> iPhone (Cant: 2)
+[2025-11-30T19:47:15.938108677] --------------------------------------------------
+[2025-11-30T19:47:15.938967280] INICIANDO TEST PRODUCTO: Samsung Galaxy Tab 10.1
+[2025-11-30T19:47:17.208042971] Producto encontrado en lista de búsqueda.
+[2025-11-30T19:47:20.583198328] ÉXITO: Agregado al carrito -> Samsung Galaxy Tab 10.1 (Cant: 1)
+[2025-11-30T19:47:30.063899302] --------------------------------------------------
+[2025-11-30T19:47:30.074309528] INICIANDO TEST PRODUCTO: Canon EOS 5D
+[2025-11-30T19:47:31.050619570] Producto encontrado en lista de búsqueda.
+[2025-11-30T19:47:34.093027756] ÉXITO: Agregado al carrito -> Canon EOS 5D (Cant: 1)
+[2025-11-30T19:47:35.896256080] ==================================================
+[2025-11-30T19:47:35.896884905] INICIANDO VERIFICACIÓN DE CARRITO FINAL
+[2025-11-30T19:47:45.340381569] VERIFICADO: En Carrito -> [Cat: Phones | Sub: ] Producto: iPhone (Cant: 2)
+[2025-11-30T19:47:45.496573506] VERIFICADO: En Carrito -> [Cat: Tablets | Sub: ] Producto: Samsung Galaxy Tab 10.1 (Cant: 1)
+[2025-11-30T19:47:45.553297301] VERIFICADO: En Carrito -> [Cat: Cameras | Sub: ] Producto: Canon EOS 5D (Cant: 1)
+[2025-11-30T19:47:45.553500479] FIN DE VERIFICACIÓN DE CARRITO
+[2025-11-30T19:47:45.553604565] ==================================================
+[2025-11-30T19:49:58.526693509] REGISTRO EXITOSO: Usuario juan.perez99_46781@test.com
+[2025-11-30T19:50:14.035538702] LOGIN EXITOSO: juan.perez99_46781@test.com
+[2025-11-30T19:50:25.068201248] LOGIN BLOQUEADO CORRECTAMENTE (Credenciales inválidas): juan.fake@test.com
+[2025-11-30T19:50:37.002650935] --------------------------------------------------
+[2025-11-30T19:50:37.003800893] INICIANDO TEST PRODUCTO: iPhone
+[2025-11-30T19:50:38.267826460] Producto encontrado en lista de búsqueda.
+[2025-11-30T19:50:41.450441586] ÉXITO: Agregado al carrito -> iPhone (Cant: 2)
+[2025-11-30T19:50:54.255467016] --------------------------------------------------
+[2025-11-30T19:50:54.256129187] INICIANDO TEST PRODUCTO: Samsung Galaxy Tab 10.1
+[2025-11-30T19:50:56.196784136] Producto encontrado en lista de búsqueda.
+[2025-11-30T19:50:59.499991284] ÉXITO: Agregado al carrito -> Samsung Galaxy Tab 10.1 (Cant: 1)
+[2025-11-30T19:51:10.291721689] --------------------------------------------------
+[2025-11-30T19:51:10.292095540] INICIANDO TEST PRODUCTO: Canon EOS 5D
+[2025-11-30T19:51:11.906634276] Producto encontrado en lista de búsqueda.
+[2025-11-30T19:51:15.990275036] ÉXITO: Agregado al carrito -> Canon EOS 5D (Cant: 1)
+[2025-11-30T19:51:17.735052686] ==================================================
+[2025-11-30T19:51:17.736050296] INICIANDO VERIFICACIÓN DE CARRITO FINAL
+[2025-11-30T19:51:27.293819244] VERIFICADO: En Carrito -> [Cat: Phones | Sub: ] Producto: iPhone (Cant: 2)
+[2025-11-30T19:51:27.682479786] VERIFICADO: En Carrito -> [Cat: Tablets | Sub: ] Producto: Samsung Galaxy Tab 10.1 (Cant: 1)
+[2025-11-30T19:51:27.826873206] VERIFICADO: En Carrito -> [Cat: Cameras | Sub: ] Producto: Canon EOS 5D (Cant: 1)
+[2025-11-30T19:51:27.827364330] FIN DE VERIFICACIÓN DE CARRITO
+[2025-11-30T19:51:27.827733280] ==================================================
