@@ -24,7 +24,6 @@ public class ProductPage extends BasePage {
 
     public void selectFirstOptionIfAvailable() {
 
-        wait.until( driver -> !driver.findElements(productSelectOption).isEmpty());
         List<WebElement> selects = driver.findElements(productSelectOption);
 
         if (!selects.isEmpty()) {
